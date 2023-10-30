@@ -396,3 +396,5 @@ We've just released Yoast SEO 21.4. In this release, we've focused on general en
 
 = Earlier versions =
 For the changelog of earlier versions, please refer to [the changelog on yoast.com](https://yoa.st/yoast-seo-changelog).
+
+Test change
